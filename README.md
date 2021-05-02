@@ -7,7 +7,7 @@ Another name for unsupervised learning is knowledge discovery. Common unsupervis
 
 It mainly is a task of dividing the set of observations into subsets, called clusters, based on similarities or differences.
 
-  1.1. KMean Clustering
+  1.1. K-Means Clustering
   
   1.2. Hierarchical Clustering : Four different methods are commonly used to measure similarity.
         
